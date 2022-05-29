@@ -17,7 +17,8 @@ section{
     justify-content: center;
     align-items: center;
     background-image: url("images/northern-lights.webp");
-    background-size: center;
+    background-size: contain;
+    background-repeat: no-repeat;
     background-position: center;
 }
 
